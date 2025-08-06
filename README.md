@@ -22,7 +22,7 @@ This project provides a complete study of **Skew Heap**, a self-adjusting heap d
 | Pham Minh Dat | 24120174 | Report: Heap Comparison Analysis; Source Code: Utility functions |
 
 ## 🏗️ Project Structure
-
+```
 skew-heap-project/
 ├── src/
 │ ├── SkewHeap.cpp # Core Skew Heap implementation
@@ -33,8 +33,7 @@ skew-heap-project/
 │ └── report.pdf # Comprehensive 35-page technical report
 ├── README.md # This file
 └── skew_heap.exe # Compiled executable
-
-text
+```
 
 ## 🚀 Getting Started
 
@@ -43,15 +42,15 @@ text
 - Minimum stack size of 16MB for recursive operations
 
 ### Compilation
+```
 cd project-directory
 g++ -std=c++11 --stack=16777216 *.cpp -o skew_heap
-
-text
+```
 
 ### Running the Program
+```
 ./skew_heap
-
-text
+```
 
 ## 🔧 Core Operations
 
