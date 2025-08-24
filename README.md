@@ -116,7 +116,7 @@ For detailed theoretical analysis, proofs, and extensive examples, please refer 
 This project was completed as part of:
 - **Course**: Data Structures and Algorithms
 - **Institution**: Faculty of Information Technology, University of Science, VNU-HCM
-- **Instructors**: Dr. Nguyen Thanh Phuong, Dr. Nguyen Thanh Tinh
+- **Instructors**: Dr. Nguyen Thanh Phuong, Lecturer. Nguyen Thanh Tinh
 - **Date**: May 25, 2025
 
 ## 📝 License
